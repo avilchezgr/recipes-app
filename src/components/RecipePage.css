@@ -1,0 +1,18 @@
+.recipePage{
+
+}
+.ingredientList{
+	
+}
+.ingredientList li{
+	
+	list-style-type:none;
+}
+.stepList li{
+	list-style-type:decimal;
+	color:#f53192;
+	
+}
+.stepList li span {
+	color: black;
+}
